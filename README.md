@@ -15,7 +15,6 @@ git clone -b master --single-branch --depth=1 https://github.com/hpde/Quarantine
 If you are a contributor, clone the repository and use the "draft" branch.
 ````
 git clone git@github.com:hpde/Quarantined.git
-git checkout draft
 ````
 
 After pushing updates send a "pull request". After a review, the changes
